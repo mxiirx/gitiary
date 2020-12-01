@@ -2,6 +2,11 @@ Ganesha Danu Enastika, Game Director
 Fajra Risqulla, DevOps Engineer
 Gisella Vania Dwipayana, Software Engineer
 Ma'isy Yazid Imaaduddin, DevOps Engineer
+Hanvito Michael Lee, SE
 Aryya Bagus Padmanawijaya, ML Engineer
 Aktsarrizqy Murad Mahraputra, Game Tester
-Airlangga Permana Putra, Software Engineer
+Airlangga Permana Putra, Software Enginee
+Ahmad Faris Hisyam Maulana, Software Engineer
+Faiz Rofi Hencya, 
+Nurul Qofifah Audyningrum, Front-End Engineer
+Akbar Sirajuddin H, Machine Learning Engineer
