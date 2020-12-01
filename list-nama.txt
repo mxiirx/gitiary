@@ -8,7 +8,5 @@ Aktsarrizqy Murad Mahraputra, Game Tester
 Ahmad Faris Hisyam Maulana, Software Engineer
 Faiz Rofi Hencya, 
 Akbar Sirajuddin H, Machine Learning Engineer
-<<<<<<< HEAD
-Alifio Yudhistira Aji Salis, Software Engineer
-=======
->>>>>>> master
+Alifio Yudhistira Aji Salis, SE,Game-dev
+
