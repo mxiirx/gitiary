@@ -1,3 +1,4 @@
+  
 Ganesha Danu Enastika, Game Director
 Fajra Risqulla, DevOps Engineer
 Gisella Vania Dwipayana, Software Engineer
@@ -13,4 +14,6 @@ Akbar Sirajuddin H, Machine Learning Engineer
 Alifio Yudhistira Aji Salis , Software Engineer & Game Dev 
 Shidqi Fadhlurrahman Yusri, Software Engineer
 Muhammad Aryuska Pradana, Software engineer
-Kadek Rizky Fransisca Putra, software engineer
+I Wayan Adi Wahyudi, Data Scientist
+Kadek Rizky Fransisca Putra, Software Engineer
+I Kadek Rizky Dwitama Widiasa, Software Engineer
